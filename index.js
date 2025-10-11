@@ -1,4 +1,10 @@
+const score = {
+  home: 0,
+  away: 0
+}
 
+const homeScoreEl = document.querySelector('.js-home-score');
+const awayScoreEl = document.querySelector('.js-score-away');
 
 document.querySelector('.js-home-btn-1')
   .addEventListener('click', () => {
