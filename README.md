@@ -1,1 +1,1 @@
-this is a scoreboard
+this is a scoreboard that update score
